@@ -1,5 +1,4 @@
-
-![
+![Banner](https://raw.githubusercontent.com/SamaraDaniele/Samara-Daniele/main/Banner%20Correto.png)
 
 ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
   
