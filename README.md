@@ -59,8 +59,11 @@ Gosto de pensar em soluções, testar novas possibilidades e me desafiar constan
 ## 🐍 Snake de contribuições
 
 <div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/EchoSingh/EchoSingh/output/snake-cool.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamaraDaniele/SamaraDaniele/output/github-snake-neon.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamaraDaniele/SamaraDaniele/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/SamaraDaniele/SamaraDaniele/output/github-snake.svg">
+</picture>
 
 </div>
 
