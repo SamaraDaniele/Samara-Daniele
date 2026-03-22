@@ -30,9 +30,8 @@ Gosto de pensar em soluções, testar novas possibilidades e me desafiar constan
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   
-<a href="mailto:samaradaniele61@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40">
-  <span>‎</span>
+<a href="https://mail.google.com/mail/?view=cm&to=samaradaniele61@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
 </a>
   
   <a href="https://wa.me/5545988346868" target="_blank">
