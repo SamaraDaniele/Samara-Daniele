@@ -20,7 +20,7 @@ Gosto de pensar em soluções, testar novas possibilidades e me desafiar constan
 <br><br>
 
 ## Fale Comigo
-
+<br><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/samara-daniele-84b686239" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -39,7 +39,7 @@ Gosto de pensar em soluções, testar novas possibilidades e me desafiar constan
 <br>
 
 ## Meus recursos
-
+<br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
@@ -56,7 +56,7 @@ Gosto de pensar em soluções, testar novas possibilidades e me desafiar constan
 
 <br><br>
 
-## 🐍 Snake de contribuições
+## 🐍 Cobra de contribuições
 
 <div align="center">
 <picture>
